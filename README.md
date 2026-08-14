@@ -36,15 +36,6 @@ I build software systems around **Python, FastAPI, React, TypeScript, RAG, LangG
   <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-11121a?style=for-the-badge&logo=github&logoColor=ffffff" alt="Git and GitHub">
 </p>
 
-## Featured Projects
-
-| Project | What it is |
-| --- | --- |
-| [**Orion**](https://github.com/atifkhani397/Orion) | Autonomous research intelligence system that fetches academic literature, detects research gaps, scores innovation potential, and generates publication-ready reports. |
-| [**Othello-reversi-**](https://github.com/atifkhani397/Othello-reversi-) | Java implementation of Othello/Reversi using OOP principles and a Minimax-based AI. |
-| [**Portfolio**](https://github.com/atifkhani397/Portfolio) | Personal portfolio website. |
-
-
 ## Contribution Snake
 
 <picture>
