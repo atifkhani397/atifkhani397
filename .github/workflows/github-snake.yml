@@ -10,20 +10,25 @@ permissions:
 
 jobs:
   snake:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ff4da6&color_dots=%23110916,%23210e1e,%2347193a,%237b275b,%23c43f8f
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff6fba&color_dots=%23110916,%23210e1e,%2347193a,%237b275b,%23c43f8f
 
-      - name: Publish generated assets to output branch
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: atifkhani397
+          outputs: |
+            dist/github-snake.svg?color_snake=#ff4fa3&color_dots=#2b0b3f,#6d1a73,#a83288,#d946a8,#ff72c6
+            dist/github-snake-dark.svg?color_snake=#ff72c6&color_dots=#1b0628,#4a0d5c,#7b1fa2,#c026d3,#f472b6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
+          commit_message: "Update contribution snake"
