@@ -44,13 +44,6 @@ I build software systems around **Python, FastAPI, React, TypeScript, RAG, LangG
 | [**Othello-reversi-**](https://github.com/atifkhani397/Othello-reversi-) | Java implementation of Othello/Reversi using OOP principles and a Minimax-based AI. |
 | [**Portfolio**](https://github.com/atifkhani397/Portfolio) | Personal portfolio website. |
 
-## GitHub Snapshot
-
-<img src="./assets/trophies.svg?v=1" alt="Verified GitHub milestone cells" width="520">
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/ff4da6/atifkhani397" alt="GitHub contribution activity graph" />
-</div>
 
 ## Contribution Snake
 
