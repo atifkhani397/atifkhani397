@@ -140,12 +140,21 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/atifkhani397"><img src="https://streak-stats.demolab.com?user=atifkhani397&amp;theme=transparent&amp;hide_border=true&amp;background=100d1a&amp;ring=8b5cf6&amp;fire=ff4fa3&amp;currStreakLabel=ff9bc9&amp;sideLabels=d7b9ff&amp;dates=bca8c8" alt="GitHub contribution streak and totals"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/github/followers/atifkhani397?style=for-the-badge&amp;label=Followers&amp;color=DB2777" alt="GitHub followers"></a>
+  <a href="https://github.com/atifkhani397?tab=following"><img src="https://img.shields.io/github/following/atifkhani397?style=for-the-badge&amp;label=Following&amp;color=8B5CF6" alt="GitHub following"></a>
   <a href="https://github.com/atifkhani397?tab=repositories"><img src="https://img.shields.io/github/repos/atifkhani397?style=for-the-badge&amp;label=Public%20Repos&amp;color=6E40C9" alt="Public repositories"></a>
-  <a href="https://github.com/atifkhani397/atifkhani397/commits/main"><img src="https://img.shields.io/github/last-commit/atifkhani397/atifkhani397?style=for-the-badge&amp;label=Last%20Commit&amp;color=9B51E0" alt="Last commit"></a>
+  <img src="https://komarev.com/ghpvc/?username=atifkhani397&amp;color=8B5CF6&amp;style=for-the-badge&amp;label=PROFILE%20VIEWS" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atifkhani397&amp;bg_color=100d1a&amp;color=d7b9ff&amp;line=8b5cf6&amp;point=ff4fa3&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
 </p>
 
 ---
