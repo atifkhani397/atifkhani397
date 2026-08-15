@@ -167,7 +167,8 @@
 </p>
 
 <p align="center">
-  <em><strong>“The future belongs to those who build intelligence with purpose.”</strong></em><br>
+  <em><strong>“Why would you wait for the future, when you could create the future?”</strong></em><br>
+  <em>“My ideas are gonna make somebody’s life better.”</em><br>
   <sub>— Muhammad Atif</sub>
 </p>
 
