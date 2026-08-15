@@ -115,6 +115,25 @@ atif = {
 
 **Key capabilities:** 3-layer AI orchestration · hybrid retrieval with BM25 and RRF · Qdrant embeddings · background report generation · PDF rendering · citation verification.
 
+### 📝 [Automated Quiz Scanner & Grading System](https://github.com/Hassan-khan-5535/quiz-scanner-and-grading-system)
+
+> An AI-powered application that scans bubble sheets, decodes QR-based answer keys, extracts handwritten student information, grades responses, and exports detailed Excel/CSV reports.
+
+**Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python%203.10%2B-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 3.10 or newer">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Gemini%20Vision-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Gemini Vision API">
+  <img src="https://img.shields.io/badge/EasyOCR-6E40C9?style=for-the-badge&amp;logoColor=white" alt="EasyOCR">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="OpenPyXL and Excel export">
+</p>
+
+**Key capabilities:** QR answer-key decoding · handwritten OCR with Gemini Vision and EasyOCR fallback · OpenCV bubble detection · invalid and unattempted response handling · batch folder processing · Excel/CSV reporting · Streamlit interface.
+
 ### 🎮 [Othello-Reversi](https://github.com/atifkhani397/Othello-reversi-)
 
 > A Java implementation of the classic Othello/Reversi board game using object-oriented design and a Minimax-based AI opponent.
