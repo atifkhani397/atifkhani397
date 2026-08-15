@@ -1,31 +1,29 @@
 <div align="center">
 
-# Muhammad Atif
-
-### Software Engineering Student · AI & Agentic AI Developer
-
-**AI systems · Research automation · Retrieval · Backend engineering**
+<p>
+  <img src="./assets/typing-intro.svg" alt="Animated introduction for Muhammad Atif">
+</p>
 
 <p>
-  <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"></a>
-  <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Atif"></a>
+  <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile"></a>
+  <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Atif"></a>
 </p>
 
 </div>
 
 ---
 
-## 🧩 About Me
+## 🧠 About Me
 
-<p align="center">
-  <img src="./assets/about-card.svg" alt="Abstract AI systems identity icon for Muhammad Atif">
-</p>
-
-<p align="center">
-  <strong>Muhammad Atif</strong><br>
-  Software Engineering Student · AI &amp; Agentic AI Developer<br>
-  <sub>AI Systems · RAG · Agentic AI · Backend APIs</sub>
-</p>
+```json
+{
+  "name": "Muhammad Atif",
+  "role": "Software Engineering Student",
+  "focus": ["AI & Agentic AI", "RAG", "Backend Engineering"],
+  "builds": ["Research automation", "Retrieval systems", "AI-powered software"],
+  "approach": "Clear systems. Useful outcomes. Continuous improvement."
+}
+```
 
 ---
 
@@ -167,6 +165,10 @@
   <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"></a>
   <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/atif83837%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Atif"></a>
 </p>
+
+> “Build systems that make complex work feel simple.”
+>
+> — Muhammad Atif
 
 <div align="center">
   <sub>Focused on building useful software at the intersection of AI and engineering.</sub>
