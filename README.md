@@ -77,19 +77,24 @@ atif = {
 
 ## 🚀 Featured Projects
 
-### 💼 [Financial Research Agent](https://github.com/ZethetaIntern/Financial-Research-agent)
+### 💼 [ARA-1 — Autonomous Financial Research Agent](https://github.com/ZethetaIntern/Financial-Research-agent-)
 
-> Collaborator on a financial research agent project focused on AI-assisted research workflows.
+> Collaborator on an autonomous, multi-source financial research agent built for QuantumEdge Research.
 
 **Stack**
 
 <p>
-  <img src="https://img.shields.io/badge/Financial%20Research-6E40C9?style=for-the-badge&amp;logoColor=white" alt="Financial Research">
-  <img src="https://img.shields.io/badge/AI%20Agent-C026D3?style=for-the-badge&amp;logoColor=white" alt="AI Agent">
-  <img src="https://img.shields.io/badge/Research%20Automation-DB2777?style=for-the-badge&amp;logoColor=white" alt="Research Automation">
+  <img src="https://img.shields.io/badge/Python%203.10%E2%80%933.12-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 3.10 to 3.12">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React%2018-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=111111" alt="React 18">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Chroma-6E40C9?style=for-the-badge&amp;logoColor=white" alt="Chroma vector store">
+  <img src="https://img.shields.io/badge/Groq%20API-C026D3?style=for-the-badge&amp;logoColor=white" alt="Groq API">
 </p>
 
-*The repository is access-restricted in unauthenticated views; project-specific implementation technologies are not inferred here.*
+**Highlights:** Plan-and-Execute plus ReAct agent loop · SEC EDGAR, Financial Modeling Prep, Tavily, and NewsAPI sources · multi-layer memory with Chroma · multi-source synthesis and source hierarchy · fallback chains and circuit breakers · FastAPI REST/WebSocket layer · React 18 web interface · Docker Compose deployment.
 
 ### 🔬 [ORION — Autonomous Research Intelligence System](https://github.com/atifkhani397/Orion)
 
