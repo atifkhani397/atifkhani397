@@ -166,7 +166,7 @@
   <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/atif83837%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Atif"></a>
 </p>
 
-> “Build systems that make complex work feel simple.”
+> **“The best way to learn AI is to build something with it.”**
 >
 > — Muhammad Atif
 
