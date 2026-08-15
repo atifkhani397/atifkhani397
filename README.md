@@ -1,57 +1,124 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img src="./assets/banner-light.svg?v=1" alt="Muhammad Atif animated developer banner">
-</picture>
+# Muhammad Atif
 
-<br>
+**Software Engineering Student · AI & Agentic AI Developer**
 
-<img src="./assets/lanyard.svg?v=1" alt="Muhammad Atif animated developer ID card" width="760">
+Building practical AI-powered systems with a focus on **RAG, agentic workflows, backend engineering, and software architecture**.
+
+<p>
+  <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/badge/GitHub-100d1a?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"></a>
+  <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/Email-100d1a?style=flat-square&logo=gmail&logoColor=ff79c6" alt="Email"></a>
+</p>
+
+</div>
 
 ## About Me
 
-**Muhammad Atif** — Software Engineering Student &amp; AI / Agentic AI Developer.
-
-I build software systems around **Python, FastAPI, React, TypeScript, RAG, LangGraph, AI/ML and SQL**, with a focus on turning research-heavy ideas into usable engineering systems. I enjoy the full path from architecture and retrieval pipelines to polished interfaces.
-
-> Building intelligent systems, breaking bugs, and occasionally questioning why the code worked. 😄
+- Software Engineering student interested in **AI engineering and agentic systems**.
+- Building practical software around **research automation, retrieval, and AI-powered workflows**.
+- Interested in production-grade backend systems, maintainable architecture, and useful developer tools.
+- Continuously improving across software engineering and applied AI engineering.
 
 ## Tech Stack
 
-<img src="./assets/stats.svg?v=1" alt="Verified GitHub profile snapshot" width="520">
-
-<img src="./assets/langs.svg?v=1" alt="Observed languages in public repositories" width="520">
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-11121a?style=for-the-badge&logo=python&logoColor=ffcf70" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-11121a?style=for-the-badge&logo=fastapi&logoColor=58d8c6" alt="FastAPI">
-  <img src="https://img.shields.io/badge/React-11121a?style=for-the-badge&logo=react&logoColor=6fd7ff" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-11121a?style=for-the-badge&logo=typescript&logoColor=70a8ff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-11121a?style=for-the-badge&logo=openjdk&logoColor=ffb45e" alt="Java">
-  <img src="https://img.shields.io/badge/RAG-11121a?style=for-the-badge&logo=databricks&logoColor=ff7fc3" alt="RAG">
-  <img src="https://img.shields.io/badge/LangGraph-11121a?style=for-the-badge&logo=graphql&logoColor=c6a6ff" alt="LangGraph">
-  <img src="https://img.shields.io/badge/SQL-11121a?style=for-the-badge&logo=postgresql&logoColor=7fc7ff" alt="SQL">
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-11121a?style=for-the-badge&logo=github&logoColor=ffffff" alt="Git and GitHub">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript, and TypeScript" height="48">
+  <img src="https://img.shields.io/badge/SQL-100d1a?style=flat-square&logoColor=ff79c6" alt="SQL">
 </p>
 
-## Contribution Snake
+### AI & Agentic AI
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atifkhani397/atifkhani397/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atifkhani397/atifkhani397/output/github-contribution-grid-snake.svg?v=1">
-  <img src="https://raw.githubusercontent.com/atifkhani397/atifkhani397/output/github-contribution-grid-snake.svg?v=1" alt="GitHub contribution snake animation">
-</picture>
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-100d1a?style=flat-square&logoColor=ff79c6" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Agentic%20AI-100d1a?style=flat-square&logoColor=bb86fc" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/RAG-100d1a?style=flat-square&logoColor=ff79c6" alt="Retrieval-Augmented Generation">
+  <img src="https://img.shields.io/badge/LangGraph-100d1a?style=flat-square&logo=graphql&logoColor=bb86fc" alt="LangGraph">
+</p>
 
-## Contact & Connect
+### Backend
 
-<a href="https://github.com/atifkhani397"><img src="https://img.shields.io/badge/GitHub-11121a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
-<a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/Email-11121a?style=for-the-badge&logo=gmail&logoColor=ff6fae" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=atifkhani397&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" alt="Profile views">
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48">
+  <img src="https://img.shields.io/badge/Uvicorn-100d1a?style=flat-square&logoColor=ff79c6" alt="Uvicorn">
+  <img src="https://img.shields.io/badge/REST%20APIs-100d1a?style=flat-square&logoColor=bb86fc" alt="REST APIs">
+</p>
 
-<br>
+### Databases & Search
 
-<sub>Verified against the public GitHub profile before populating profile statistics. Live counts can change.</sub>
+<p>
+  <img src="https://cdn.simpleicons.org/qdrant/ff79c6" alt="Qdrant" height="42">
+  <img src="https://cdn.simpleicons.org/duckdb/bb86fc" alt="DuckDB" height="42">
+  <img src="https://img.shields.io/badge/BM25-100d1a?style=flat-square&logoColor=ff79c6" alt="BM25">
+  <img src="https://img.shields.io/badge/Hybrid%20Search-100d1a?style=flat-square&logoColor=bb86fc" alt="Hybrid Search">
+  <img src="https://img.shields.io/badge/RRF%20Fusion-100d1a?style=flat-square&logoColor=ff79c6" alt="Reciprocal Rank Fusion">
+</p>
 
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, and GitHub" height="48">
+</p>
+
+## Featured Projects
+
+### Financial Research Agent
+
+Collaborator on a financial research agent project.
+
+`Financial Research` `AI Agent`
+
+*Repository link not provided.*
+
+### [ORION — Autonomous Research Innovation Agent](https://github.com/atifkhani397/Orion)
+
+An AI-powered research system that searches academic papers, analyzes existing research, identifies research gaps, and generates research innovation reports.
+
+`AI` `Research Automation` `Python`
+
+### [Othello-Reversi](https://github.com/atifkhani397/Othello-reversi-)
+
+A Java-based Othello/Reversi game built with **Minimax AI** and **JavaFX**.
+
+`Java` `Minimax` `JavaFX`
+
+### Insight Flow
+
+An AI-powered social media analytics platform focused on startups and SMEs.
+
+`AI` `Analytics` `Startups & SMEs`
+
+*Repository link not provided.*
+
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/github/followers/atifkhani397?style=flat-square&amp;label=followers&amp;color=ff79c6" alt="GitHub followers"></a>
+  <a href="https://github.com/atifkhani397?tab=repositories"><img src="https://img.shields.io/github/repos/atifkhani397?style=flat-square&amp;label=public%20repos&amp;color=bb86fc" alt="Public repositories"></a>
+  <a href="https://github.com/atifkhani397/atifkhani397/commits/main"><img src="https://img.shields.io/github/last-commit/atifkhani397/atifkhani397?style=flat-square&amp;color=ff79c6" alt="Last commit"></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atifkhani397/atifkhani397/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atifkhani397/atifkhani397/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/atifkhani397/atifkhani397/output/github-snake.svg" alt="GitHub contribution activity snake">
+  </picture>
+</p>
+
+## Current Focus
+
+`Agentic AI` · `RAG` · `LangGraph` · `FastAPI` · `Production AI Systems` · `Software Architecture`
+
+## Contact
+
+<p>
+  <a href="https://github.com/atifkhani397"><img src="https://img.shields.io/badge/GitHub-100d1a?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"></a>
+  <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/atif83837%40gmail.com-100d1a?style=flat-square&logo=gmail&logoColor=ff79c6" alt="Email Muhammad Atif"></a>
+</p>
+
+<div align="center">
+  <sub>Focused on building useful software at the intersection of AI and engineering.</sub>
 </div>
