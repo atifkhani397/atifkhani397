@@ -166,9 +166,10 @@
   <a href="mailto:atif83837@gmail.com"><img src="https://img.shields.io/badge/atif83837%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Atif"></a>
 </p>
 
-> **“The best way to learn AI is to build something with it.”**
->
-> — Muhammad Atif
+<p align="center">
+  <em><strong>“The future belongs to those who build intelligence with purpose.”</strong></em><br>
+  <sub>— Muhammad Atif</sub>
+</p>
 
 <div align="center">
   <sub>Focused on building useful software at the intersection of AI and engineering.</sub>
