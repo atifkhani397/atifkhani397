@@ -17,16 +17,15 @@
 
 ## 🧩 About Me
 
-I’m a **Software Engineering student** focused on the practical side of AI: turning research ideas into systems that can retrieve information, reason over tasks, and support real workflows.
+<p align="center">
+  <img src="./assets/about-card.svg" alt="Abstract AI systems identity icon for Muhammad Atif">
+</p>
 
-| Direction | What I am working toward |
-| --- | --- |
-| 🤖 **AI systems** | Agentic workflows that produce useful, grounded outputs. |
-| 🔎 **Research & retrieval** | RAG pipelines, hybrid search, vector databases, and evidence-aware generation. |
-| ⚡ **Backend engineering** | Clear APIs, background workflows, and maintainable production architecture. |
-| 🧱 **Software craft** | Building through projects while strengthening algorithms, design, and engineering fundamentals. |
-
-<p align="center"><strong>Current direction:</strong> connecting intelligent behavior with dependable software.</p>
+<p align="center">
+  <strong>Muhammad Atif</strong><br>
+  Software Engineering Student · AI &amp; Agentic AI Developer<br>
+  <sub>AI Systems · RAG · Agentic AI · Backend APIs</sub>
+</p>
 
 ---
 
