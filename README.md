@@ -15,24 +15,18 @@
 
 ---
 
-## 🧠 About Me
+## 🧩 About Me
 
-```python
-atif = {
-    "role": "Software Engineering Student",
-    "focus": ["Artificial Intelligence", "Agentic AI", "RAG", "Backend Engineering"],
-    "builds": ["Research automation", "Retrieval systems", "AI-powered software"],
-    "stack": ["Python", "Java", "SQL", "JavaScript", "TypeScript"],
-    "currently": "Designing practical AI systems with production-minded architecture",
-}
-```
+I’m a **Software Engineering student** focused on the practical side of AI: turning research ideas into systems that can retrieve information, reason over tasks, and support real workflows.
 
-## ⚙️ What I Build
+| Direction | What I am working toward |
+| --- | --- |
+| 🤖 **AI systems** | Agentic workflows that produce useful, grounded outputs. |
+| 🔎 **Research & retrieval** | RAG pipelines, hybrid search, vector databases, and evidence-aware generation. |
+| ⚡ **Backend engineering** | Clear APIs, background workflows, and maintainable production architecture. |
+| 🧱 **Software craft** | Building through projects while strengthening algorithms, design, and engineering fundamentals. |
 
-- 🤖 **Agentic AI systems** that decompose tasks, reason over information, and produce useful outputs.
-- 🔎 **Research and retrieval pipelines** using hybrid search, vector databases, and grounded generation.
-- ⚡ **Backend services** with clear APIs, background workflows, and maintainable engineering patterns.
-- 🧩 **Practical software projects** that connect algorithms, interfaces, data, and automation.
+<p align="center"><strong>Current direction:</strong> connecting intelligent behavior with dependable software.</p>
 
 ---
 
